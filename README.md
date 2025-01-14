@@ -46,3 +46,11 @@ rw.plot_mean_variance()
 rw.plot_trajectories()
 rw.plot_log_returns()  # Only for types C and D
 rw.asymptotic_distributions()
+```
+
+![random walk mean and var](Mean_Var.png)
+![random walk trajectories](Trajectories.png)
+```
+Log-returns are only defined for types C and D.
+```
+![random walk Asymptotic Distributions](Asymptotic_Distributions.png)
